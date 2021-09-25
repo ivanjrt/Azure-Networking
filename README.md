@@ -20,7 +20,7 @@ Add-AzNetworkSecurityRuleConfig @params | Set-AzNetworkSecurityGroup
 
 # To UPDATE a Security Rule
 ```Java
-$UpdatedIp = "73.75.75.75"
+$UpdatedIp = "75.75.75.75"
 $HomeNsg   = Get-AzNetworkSecurityGroup -Name nsgEast -ResourceGroupName "connectivityEast"
 $params    = @{
   'Name'                     = 'Home'
