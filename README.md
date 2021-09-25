@@ -1,4 +1,4 @@
-# Azure-Networking NetWorkSecurityGroup Samples
+# Azure Networking - NetWorkSecurityGroup Samples
 
 # To add a Security Rule
 ```Java
